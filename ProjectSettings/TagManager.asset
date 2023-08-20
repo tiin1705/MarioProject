@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Brick
+  - ItemBox
+  - Enemy_Mushroom
+  - LvMushRoom
+  - MarioFireBall
+  - Ground
+  - Pile
+  - Plant
+  - Bridge
+  - BossFireBall
+  - lava
+  - Queen
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2871514409
+    locked: 0
+  - name: Background_Terrain
+    uniqueID: 3539058883
+    locked: 0
+  - name: Plant
+    uniqueID: 2661974119
+    locked: 0
+  - name: Pile
+    uniqueID: 1006875953
+    locked: 0
+  - name: UnderPile
+    uniqueID: 659441739
+    locked: 0
+  - name: Terrain
+    uniqueID: 1904458739
+    locked: 0
+  - name: Object
+    uniqueID: 759048391
+    locked: 0
+  - name: FinalObject
+    uniqueID: 3140136933
+    locked: 0
+  - name: Castle
+    uniqueID: 2540425529
+    locked: 0
+  - name: Player
+    uniqueID: 1399952039
+    locked: 0
+  - name: Enemy
+    uniqueID: 1789896943
+    locked: 0
